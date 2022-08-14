@@ -1,6 +1,3 @@
-# jvd-learns-to-code
-
-
 # Hey There! My name is Jess
 
 :round_pushpin: Brisbane,QLD 
