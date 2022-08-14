@@ -18,7 +18,7 @@ My world is predominately SQL based at present, however I am passionate about bu
 ````
 ```mermaid
 
-graph TD;
+flowchart TD;
   A [Create a Function] --> B[Did it work?];
   B -- Yes --> C[Clap hands exstatically];
   B -- No --> D[Uh oh! Consult the Stack Overflow overlords for further advice];
