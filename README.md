@@ -15,9 +15,8 @@ My world is predominately SQL based at present, however I am passionate about bu
 
 ## How its going...
 
-````
-```mermaid
 
+```mermaid
 flowchart TD;
   A [Create a Function] --> B[Did it work?];
   B -- Yes --> C[Clap hands exstatically];
@@ -28,9 +27,7 @@ flowchart TD;
   F -- Still no Comprehendo --> H[Try turning it off and on... Oh look, the error disappeared!];
   G ----> [You are one step closer to taking over the world];
   H ----> [You are one step closer to taking over the world];
-  
   ```                                                             
-````
 :star: Check out my very first portfolio project [here](https://jvdbne.github.io/)
 
 
