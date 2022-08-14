@@ -1,7 +1,5 @@
 # Hey There! My name is Jess
 
-:round_pushpin: Brisbane,QLD 
-
 I'm an aspiring full stack developer working at :rocket: [Xplor Technologies](https://www.xplortechnologies.com/au) as an Application Support Specialist. 
 
 My world is predominately SQL based at present, however I am passionate about building knowledge and deep diving into tech. 
