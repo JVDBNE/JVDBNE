@@ -1,6 +1,6 @@
 # Hey There! My name is Jess
 
-I'm an aspiring Full Stack Developer at :rocket: [Xplor Technologies](https://www.xplortechnologies.com/au) as a Jr Software Engineer. 
+I'm an aspiring Full Stack Developer working at :rocket: [Xplor Technologies](https://www.xplortechnologies.com/au) as a Jr Software Engineer. 
 
 My world is predominately SQL / PHP / Java Script based at present, however I am passionate about building knowledge and deep diving into tech. 
 
